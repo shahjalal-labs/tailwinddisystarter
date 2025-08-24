@@ -1,23 +1,12 @@
-# 🌟 tailwinddisystarter
+# React + Vite
 
-## 📂 Project Information
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-| 📝 **Detail**           | 📌 **Value**                                                              |
-|------------------------|---------------------------------------------------------------------------|
-| 🔗 **GitHub URL**       | [https://github.com/shahjalal-labs/tailwinddisystarter](https://github.com/shahjalal-labs/tailwinddisystarter)                                                                  |
-| 🌐 **Live Site**        | [http://shahjalal-mern.surge.sh](http://shahjalal-mern.surge.sh)                                                                  |
-| 💻 **Portfolio GitHub** | [https://github.com/shahjalal-labs/shahjalal-portfolio-v2](https://github.com/shahjalal-labs/shahjalal-portfolio-v2)                                                                  |
-| 🌐 **Portfolio Live**   | [http://shahjalal-labs.surge.sh](http://shahjalal-labs.surge.sh)                                                                  |
-| 📁 **Directory**        | `/run/media/sj/developer/web/L1B11/13mi/tailwinddisystarter`                                                                      |
-| 📅 **Created On**       | `24/08/2025 05:51 পূর্বাহ্ণ রবি GMT+6`                                                                      |
-| 📍 **Location**         | Sharifpur, Gazipur, Dhaka                                                                        |
-| 💼 **LinkedIn**         | [https://www.linkedin.com/in/shahjalal-labs/](https://www.linkedin.com/in/shahjalal-labs/)                                                                  |
-| 📘 **Facebook**         | [https://www.facebook.com/shahjalal.labs](https://www.facebook.com/shahjalal.labs)                                                                  |
-| ▶️ **Twitter**          | [https://x.com/shahjalal_labs](https://x.com/shahjalal_labs)                                                                  |
+Currently, two official plugins are available:
 
----
-### `Developer info:`
-![Developer Info:](https://i.ibb.co/kVR4YmrX/developer-Info-Github-Banner.png)
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-> 🚀 
-> 🧠 
+## Expanding the ESLint configuration
+
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
